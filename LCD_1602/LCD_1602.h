@@ -15,7 +15,7 @@
 #define LCD_SETCGRAMADDR 0x40
 #define LCD_SETDDRAMADDR 0x80
 
-// flags for display entry mode
+// flags for display entry mode 
 #define LCD_ENTRYLEFT 0x02
 #define LCD_ENTRYSHIFTDECREMENT 0x00
 
