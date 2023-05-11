@@ -1,4 +1,4 @@
-#include <LCD_1602.h> 
+#include <LCD_1602.h>
 
 
 uint8_t _addr = DEFAULT_ADDRESS;
